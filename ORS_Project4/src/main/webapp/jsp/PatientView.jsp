@@ -54,7 +54,7 @@
 						} else {
 					%>
 					<tr>
-						<th><font size="5px"> Add Patient </font></th>
+						<th><font size="5px"> Add Patient1 </font></th>
 					</tr>
 					<%
 						}
