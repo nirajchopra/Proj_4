@@ -28,9 +28,9 @@ public class PatientListCtl extends BaseCtl {
 
 		Map<String, String> map = new HashMap<String, String>();
 
-		map.put("1", "Cancer");
-		map.put("2", "Malaria");
-		map.put("3", "Diabetes ");
+		map.put("Cancer", "Cancer");
+		map.put("Malaria", "Malaria");
+		map.put("Diabetes", "Diabetes ");
 
 		request.setAttribute("illness", map);
 	}
