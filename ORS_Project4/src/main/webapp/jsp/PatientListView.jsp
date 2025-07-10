@@ -111,7 +111,7 @@
 				cellspacing=".2">
 
 
-				<tr style="background: Yellow">
+				<tr style="background: Blue">
 					<th><input type="checkbox" id="select_all" name="select">Select
 						All</th>
 
